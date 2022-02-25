@@ -1,6 +1,6 @@
 import ezsheets
 
-ss = ezsheets.Spreadsheet('1k8Hqmx1UzjELf5TvYMht6Y2Ay5ywWv2E34DzPVdVH2w')
+ss = ezsheets.Spreadsheet('Google-Sheets-URL-code')
 
 sheet = ss['Parser List']
 
